@@ -1,5 +1,5 @@
 <?php
-namespace Xdm\Md5;
+namespace Xdms\Md5;
 class Md5{
 	public function make( $password){
 		return md5(md5($password));
