@@ -1,6 +1,6 @@
 <?php
 
-namespace Xdm\Md5;
+namespace Xdms\Md5;
 use Illuminate\Support\ServiceProvider;
 
 
